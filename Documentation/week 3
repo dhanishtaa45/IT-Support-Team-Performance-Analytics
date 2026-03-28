@@ -1,1 +1,47 @@
 
+📊 IT Support Ticket Analysis – Week 3
+1. 📌 Title
+
+Advanced Analysis & Performance Optimization of IT Support System
+
+2. ❗ Project Description
+
+In Week 3, the focus shifted from basic dashboarding to advanced data analysis and performance optimization. The goal was to derive deeper insights from the dataset and identify patterns that can improve IT support efficiency and decision-making.
+
+3. 📂 Dataset
+
+The same IT Support Ticket dataset was used, which had already been cleaned and transformed in previous weeks. Only relevant columns were retained, ensuring a structured dataset suitable for advanced analysis techniques.
+
+4. 📈 Key Performance Indicators (KPIs)
+
+Enhanced KPIs were analyzed to measure system performance more effectively:
+
+Average Resolution Time (by category and priority)
+Average Response Efficiency
+Ticket Resolution Rate (%)
+SLA Compliance Rate
+Ticket Backlog (Pending Tickets)
+
+These KPIs were further broken down to identify performance gaps across different dimensions.
+
+5. 📊 Dashboard Description
+
+The dashboard was enhanced using Microsoft Power BI with more advanced and interactive visuals:
+
+Drill-down analysis by category and priority
+Trend analysis with time-based comparisons
+Comparative visuals for SLA vs actual performance
+Advanced slicers for deeper filtering
+Performance breakdown across multiple dimensions
+
+Data transformation and calculated measures were refined using Power Query and DAX functions.
+
+6. 🔍 Key Insights (Advanced EDA)
+
+Advanced Exploratory Data Analysis revealed deeper patterns:
+
+Specific categories consistently contribute to high ticket volumes
+High-priority tickets do not always receive faster resolution
+SLA breaches occur mainly during peak workload periods
+Backlogs are concentrated in certain issue types
+Performance varies significantly across time periods
