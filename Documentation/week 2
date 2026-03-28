@@ -1,1 +1,16 @@
 
+📅 Week 2: IT Support Dashboard & Performance Analysis
+
+In Week 2, the focus was on transforming the cleaned dataset into an interactive and insightful dashboard using Microsoft Power BI. The goal was to analyze IT support performance and present key metrics in a clear, visual format to support decision-making.
+
+The problem addressed in this phase was the lack of visibility into IT support operations, making it difficult for organizations to track ticket resolution efficiency, response time, and workload distribution. To solve this, a structured dashboard was developed using data from the internal IT Support Ticket System, which includes details like ticket priority, issue category, timestamps, and resolution status.
+
+Key Performance Indicators (KPIs) were defined and calculated using averaging techniques. These include Average Resolution Time, Average Response Efficiency, Priority Distribution, total ticket volume, and the percentage of resolved versus pending tickets. These KPIs provide a summarized view of system performance.
+
+The dashboard was designed with multiple visual elements such as KPI cards, bar charts, and line charts to represent trends and distributions. Interactive slicers were added to allow users to filter data dynamically based on factors like priority and issue type. Data transformation and preparation were handled using Power Query, ensuring the dataset was structured and analysis-ready.
+
+From the dashboard, several insights were identified. High-priority tickets tend to take more time to resolve, certain issue categories contribute to a large portion of the workload, and there are noticeable peaks in ticket volume during specific periods. Additionally, unresolved tickets highlight areas where efficiency can be improved.
+
+Based on these insights, recommendations were made to enhance organizational performance. These include prioritizing high-severity issues, automating repetitive tasks, improving ticket assignment strategies, and regularly monitoring pending tickets to avoid backlog.
+
+Overall, this week focused on converting raw data into meaningful insights through visualization, helping organizations make data-driven decisions to improve IT support services.
