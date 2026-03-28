@@ -1,1 +1,14 @@
 
+📊 Week 4: Final Dashboard Optimization & Business Insights
+
+In Week 4, the project reached its final stage with a focus on optimizing the IT Support Dashboard and delivering actionable business insights. The dataset, previously cleaned and transformed, was validated to ensure accuracy, consistency, and relevance by retaining only the most important columns required for analysis.
+
+A key component of this phase was the refinement of Key Performance Indicators (KPIs). KPIs are measurable values that indicate how effectively an organization is achieving its objectives. In this project, metrics such as average resolution time, response efficiency, SLA compliance, and backlog volume were finalized to provide a clear evaluation of IT support performance.
+
+Additionally, Exploratory Data Analysis (EDA) played a crucial role in strengthening the analysis. EDA helped in understanding the dataset structure, identifying patterns, detecting outliers, and uncovering relationships between variables. This ensured that the insights derived from the dashboard are accurate and meaningful.
+
+The final dashboard was developed and optimized using Microsoft Power BI, with data transformation handled through Power Query. The dashboard features a clean and interactive design with KPI indicators, trend analysis, and filtering capabilities, enabling users to explore the data efficiently.
+
+Key insights revealed performance gaps in handling high-priority tickets, SLA breaches during peak periods, and the impact of backlog on overall efficiency. Based on these findings, recommendations were provided to improve resource allocation, prioritize critical issues, and enhance operational workflows.
+
+This final phase delivers a complete, business-ready solution that enables organizations to monitor performance, identify inefficiencies, and make data-driven decisions to improve IT support services.
