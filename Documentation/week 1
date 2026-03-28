@@ -1,9 +1,19 @@
-📅 Week 1: Data Acquisition & Understanding
+📅 Week 1: Data Acquisition, Cleaning & Introduction to Power BI
 
-In the first week of the project, we focused on understanding and preparing the IT Support Ticket dataset obtained from an internal ticketing system. The dataset was loaded and inspected to analyze its structure, column types, and relationships between different variables such as ticket priority, issue category, and resolution status.
+During the first week, the primary focus was on collecting, understanding, and preparing the IT Support Ticket dataset sourced from an internal ticketing system. The dataset was loaded and explored to identify column types, relationships, and key attributes such as ticket priority, issue category, timestamps, and resolution status.
 
-Key performance metrics were identified, including resolution time, response efficiency, and priority distribution, which will guide further analysis. Initial data cleaning steps were performed to handle missing and inconsistent values.
+We defined important performance metrics like Resolution Time, Response Efficiency, and Priority Distribution, which will be used to evaluate support performance in later stages.
 
-Additionally, feature engineering was carried out by creating new attributes like Resolution_Time (calculated as the difference between resolution date and ticket creation date). The Similarity_Level field was categorized into performance buckets to simplify analysis. Categorical variables were also encoded to prepare the dataset for clustering and visualization in upcoming stages.
+A significant part of this week was dedicated to data cleaning and preprocessing. Missing, null, and inconsistent values were identified and handled appropriately to ensure data quality. New features were engineered, such as Resolution_Time (calculated as the difference between resolution date and ticket creation date). Additionally, the Similarity_Level field was grouped into meaningful performance buckets to simplify analysis.
 
-This week laid the foundation for deeper insights and advanced analytics in the next phases of the project.
+We also began working with Power BI, gaining an understanding of its interface and capabilities for data visualization. Using Power Query, the dataset was transformed by:
+
+Removing duplicates and irrelevant columns
+Handling missing values
+Changing data types
+Creating calculated columns
+Preparing the dataset for analysis and reporting
+
+Categorical fields were encoded and structured properly to support future tasks like clustering, dashboard creation, and advanced analytics.
+
+This week established a strong foundation by ensuring clean, structured, and analysis-ready data, along with an introduction to visualization tools that will be used in the upcoming weeks.
