@@ -1,1 +1,14 @@
 
+📊 Week 6: Performance Insights & Optimization
+
+In Week 6, the focus was on deriving performance insights from the IT Support dataset and identifying opportunities for optimization. This phase emphasized analyzing operational efficiency across different dimensions to support better decision-making.
+
+A comparative analysis was performed on resolution times across various priority levels and countries to understand how service performance varies. This helped in identifying whether high-priority tickets are being resolved within expected timeframes and how performance differs across regions.
+
+Further analysis was conducted to detect performance gaps within specific clusters, categories, and ticket types. By leveraging previously defined KPIs and segmented analysis, areas with delays, inefficiencies, and high backlog were identified. This step played a crucial role in highlighting weak points in the support process.
+
+Based on these insights, actionable optimization strategies were recommended. These include reallocating resources to high-demand areas, improving ticket prioritization mechanisms, and refining workflows for frequently occurring issues. The goal is to enhance response efficiency, reduce resolution time, and improve overall service quality.
+
+The analysis and visualization were carried out using Microsoft Power BI, enabling clear comparison and interactive exploration of performance metrics.
+
+Overall, Week 6 focused on transforming analytical findings into practical business improvements, ensuring that data-driven insights lead to better operational efficiency and optimized IT support performance.
