@@ -1,1 +1,16 @@
 
+📊 Week 5: Data Modeling & Advanced Data Integration
+
+In Week 5, the focus was on understanding and implementing data modeling concepts to improve data organization, relationships, and analytical efficiency. Data modeling is the process of structuring and organizing data in a way that enables efficient storage, retrieval, and analysis.
+
+A key concept covered was the distinction between Fact Tables and Dimension Tables. Fact tables store measurable values such as ticket counts, resolution time, and performance metrics, while dimension tables contain descriptive information such as category, priority, and date details. This separation improves clarity and enables better analytical performance.
+
+We also explored different types of data schemas. The Star Schema was studied as a simple and efficient model where the fact table is placed at the center and connected to multiple dimension tables. In contrast, the Snowflake Schema involves normalized dimension tables with more complex relationships. These schema designs help structure data for optimized querying and reporting.
+
+Another important area covered was table relationships and cardinality, which define how tables are connected. Different types of relationships such as one-to-one, one-to-many, and many-to-many were analyzed to understand how data flows between tables. Additionally, the role of Primary Keys (unique identifiers) and Foreign Keys (used to establish relationships between tables) was emphasized.
+
+This week also introduced data integration techniques, including working with live and external data sources. The concept of API keys was learned, which are secure keys used to access data from external services. We also explored the Web option in Microsoft Power BI, which allows data to be fetched directly from online sources using URLs. It was noted that some websites may have access restrictions, which require proper handling or alternative approaches.
+
+Additionally, the difference between live data (real-time data from external systems) and synthetic data (artificially generated data for testing and analysis) was discussed.
+
+Overall, Week 5 strengthened the foundation in data modeling and data integration, enabling the creation of well-structured datasets that support efficient analysis, scalable dashboards, and better decision-making.
