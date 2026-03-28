@@ -1,1 +1,25 @@
+:
 
+📊 Week 7: Visualization & Dashboard Development
+
+In Week 7, the focus was on building effective visualizations and dashboards to present insights derived from the IT Support dataset. This phase emphasized transforming analytical results into clear, interactive, and visually appealing representations for better understanding and decision-making.
+
+Multiple visualization techniques were implemented using tools such as Matplotlib, Seaborn, Plotly, and Microsoft Power BI. These tools were used to create both static and interactive charts.
+
+Different types of visualizations were developed to analyze key aspects of the dataset:
+
+Bar charts to represent ticket distribution across categories and countries
+Line charts to analyze trends in resolution time and ticket volume over time
+Heatmaps to identify patterns and performance variations across priorities and regions
+Geographical maps to visualize country-wise ticket trends and performance
+
+The dashboard also included insights such as:
+
+Ticket distribution by category and country
+Resolution efficiency based on priority levels
+Cluster performance compared with similarity scores
+Regional trends and performance differences
+
+The visualizations were designed to be interactive, allowing users to explore data dynamically and gain deeper insights. This enhances the ability to monitor performance, identify patterns, and support data-driven decision-making.
+
+Overall, Week 7 focused on presenting data in a meaningful and visually intuitive way, making complex insights easier to understand and actionable for improving IT support performance.
