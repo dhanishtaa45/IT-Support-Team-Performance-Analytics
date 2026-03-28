@@ -1,1 +1,9 @@
+📅 Week 1: Data Acquisition & Understanding
 
+In the first week of the project, we focused on understanding and preparing the IT Support Ticket dataset obtained from an internal ticketing system. The dataset was loaded and inspected to analyze its structure, column types, and relationships between different variables such as ticket priority, issue category, and resolution status.
+
+Key performance metrics were identified, including resolution time, response efficiency, and priority distribution, which will guide further analysis. Initial data cleaning steps were performed to handle missing and inconsistent values.
+
+Additionally, feature engineering was carried out by creating new attributes like Resolution_Time (calculated as the difference between resolution date and ticket creation date). The Similarity_Level field was categorized into performance buckets to simplify analysis. Categorical variables were also encoded to prepare the dataset for clustering and visualization in upcoming stages.
+
+This week laid the foundation for deeper insights and advanced analytics in the next phases of the project.
